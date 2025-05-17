@@ -10,9 +10,9 @@
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisites</h2>
 
-- Create a Windows Virtual Machine in Azure <a href="https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup">as shown in this repository</a>
+- Create a Windows 10 Pro Virtual Machine in Azure <a href="https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup">as shown in Chapter 1 of the Active Directory Home Lab at this link.</a>
 
 
 <h2>Connect to Windows VM</h2>
